@@ -1,4 +1,4 @@
-![My Animated GIF](https://raw.githubusercontent.com/itsfarhan/itsfarhan/giphy.gif)
+![My Animated GIF](https://raw.githubusercontent.com/itsfarhan/itsfarhan/main/giphy.gif)
 
 
 # 💫 About Me: 

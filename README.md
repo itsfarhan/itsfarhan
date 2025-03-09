@@ -1,19 +1,21 @@
+
+<img src="./assets/CommunityBuilderBanner.png" alt="AWS Community Builder" width="100%">
+
 # 💫 About Me: 
 
-## 👨‍💻 **Farhan Ahmed | Backend Developer | Java | Spring Boot | AWS | Kubernetes**
+## 👨‍💻 **Farhan Ahmed | AWS Community Builder | Backend Developer | Java | Spring Boot | AWS | Kubernetes**
 
-> Passionate backend developer with expertise in **Java, Spring Boot, and microservices**.
+> Passionate backend developer with expertise in **Java, Spring Boot, and AWS**.
 > I love building scalable and **cloud-native** applications.
 > Diving deep into DevOps practices like **containerization, orchestration, automation, and monitoring**.
 > Always eager to learn and collaborate on new projects!
 
 
+
 ### **What I'm Working On**:
 
-- Developing high-performance, scalable microservices using **Spring Boot**.
-- Exploring the world of **DevOps** to streamline software delivery.
-- Implementing **Kubernetes** for container orchestration in production environments.
-- Currently upskilling **@boot.dev** as backend dev.
+- Learning GO to contribute open source projects.
+- Exploring System Designs to build better scalable apps
 
 Let's connect, collaborate, and code! 🌐✨
 
@@ -73,7 +75,7 @@ Let's connect, collaborate, and code! 🌐✨
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsfarhan&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-![My Animated GIF](https://raw.githubusercontent.com/itsfarhan/itsfarhan/main/giphy.gif)
+![My Animated GIF](https://raw.githubusercontent.com/itsfarhan/itsfarhan/main/eminem-gif.gif)
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

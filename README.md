@@ -14,8 +14,9 @@
 
 ### **What I'm Working On**:
 
+- Technical Review for Kubernetes Autoscaling Book (PACKT)
+- Contributing to Open Source Project
 - Exploring Kubernetes and upskilling.
-- Brushing up my springboot knowledge through a guided project by - sivalab(YT channel)
 - Soon will start reading a book on CloudNative with springboot where I will explore more CNCF Open Source Tools.
 - As I get time I will understand system design concepts much better.
 

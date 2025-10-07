@@ -4,7 +4,7 @@
 
 **AWS Community Builder | Technical Reviewer | Cloud Native Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=AWS+Community+Builder;Technical+Reviewer+%7C+Kubernetes+Books;Building+maintainable+systems;Learning+Kubernetes+internals;Contributing+to+cloud-native+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=AWS+Community+Builder;Technical+Reviewer+%7C+Kubernetes+Book;Building+maintainable+systems;Learning+Kubernetes+internals;Contributing+to+cloud-native+tools)](https://git.io/typing-svg)
 
 ![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Technical Reviewer](https://img.shields.io/badge/Technical-Reviewer-2E8B57?style=flat-square&logo=book&logoColor=white)
@@ -62,7 +62,7 @@ I document my learning journey at [notes.farhanahmed.pro](https://notes.farhanah
 
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?&style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?&style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-CB171E.svg?&style=flat-square&logo=yaml&logoColor=white)
 
 ### Tools & Platforms
@@ -115,6 +115,6 @@ _"Good engineering is calm and deliberate; flashy complexity often hides fragili
 
 ![Peacemaker GIF](peacemaker-dance.gif)
 
-<em>Me and my pods when autoscaling kicks in perfectly"</em>
+<em>Me and my pods when autoscaling kicks in perfectly</em>
 
 </div>

@@ -77,7 +77,8 @@ I document my learning journey at [notes.farhanahmed.pro](https://notes.farhanah
 ## Recent Work
 
 **📚 Technical Reviewer:** [Kubernetes Autoscaling with KEDA and Karpenter](https://www.packtpub.com/en-in/product/kubernetes-autoscaling-9781836643821) (PACKT Publishing)  
-Reviewing technical content on Kubernetes autoscaling patterns, KEDA event-driven scaling, and Karpenter node provisioning authored by [Christian Melendez](https://www.linkedin.com/in/christianmldz/). 
+Reviewing technical content on Kubernetes autoscaling patterns, KEDA event-driven scaling, and Karpenter node provisioning authored by [Christian Melendez](https://www.linkedin.com/in/christianmldz/).
+ 
 > *You gotta buy this book! Its available in Dec 2025*
 
 **📝 Knowledge Base:** [notes.farhanahmed.pro](https://notes.farhanahmed.pro)  

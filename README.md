@@ -30,24 +30,24 @@ I am curious about how systems work and how to build maintainable infrastructure
 <div align="center">
 
 **Cloud-Native & Infrastructure**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="40" width="40"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/376331/kubernetes.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/303231/docker-logo.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/374008/prometheus.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/353829/grafana.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/373664/helm.svg" height="40" width="40"/>
 
 **Languages & Development**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/452234/java.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/373635/go-gopher.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/354379/spring.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" width="40"/>
 
 **Tools & Platforms**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/452210/git.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/475654/github-color.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/354481/ubuntu.svg" height="40" width="40"/>
+<img src="https://www.svgrepo.com/show/374171/vscode.svg" height="40" width="40"/>
 
 </div>
 
@@ -62,8 +62,8 @@ I am curious about how systems work and how to build maintainable infrastructure
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsfarhan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pingfarhan)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pingfarhan.bsky.social)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pingfarhan)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/itsfarhan.bsky.social)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://notes.farhanahmed.pro)
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pingfarhan) -->

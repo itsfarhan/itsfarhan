@@ -2,105 +2,71 @@
 
 # Farhan Ahmed
 
-**AWS Community Builder | Technical Reviewer | Cloud Native Enthusiast**
+**AWS Community Builder • Technical Reviewer • OSS Contributor**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=AWS+Community+Builder;Technical+Reviewer+%7C+Kubernetes+Book;Building+maintainable+systems;Learning+Kubernetes+internals;Contributing+to+cloud-native+tools)](https://git.io/typing-svg)
-
-![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Technical Reviewer](https://img.shields.io/badge/Technical-Reviewer-2E8B57?style=flat-square&logo=book&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Building+maintainable+systems;Kubernetes+%2B+Cloud+Native;AWS+Community+Builder)](https://git.io/typing-svg)
 
 </div>
 
-I am curious about how systems work, how tools improve developer experience, and how to build maintainable infrastructure. Currently focused on Kubernetes, cloud-native architectures, and the intersection of simplicity and reliability.
+I am curious about how systems work and how to build maintainable infrastructure. Currently focused on Kubernetes, cloud-native architectures, and making complex systems simple.
 
-I document my learning journey at [notes.farhanahmed.pro](https://notes.farhanahmed.pro) — a collection of technical experiments, system breakdowns, and honest reflections on building things that work.
+## What I'm Working On
 
-## Current Focus
+📚 **Technical Reviewer** for [Kubernetes Autoscaling with KEDA and Karpenter](https://www.packtpub.com/en-in/product/kubernetes-autoscaling-9781836643821) (PACKT Publishing)
 
-**Learning & Building:**
+🔧 **Contributing** to [k8gb](https://github.com/k8gb-io/k8gb) - Global Server Load Balancing for Kubernetes
 
-- Cloud-native systems and Kubernetes internals
-- Contributing to open-source projects like [k8gb](https://github.com/k8gb-io/k8gb)
+📝 **Documenting** my learning journey at [notes.farhanahmed.pro](https://notes.farhanahmed.pro)
 
-**What I actually believe:**
+## What I actually believe:
 
 - Clarity over cleverness... build things that are simple to understand
 - Hands-on learning through documentation, experimentation, and breaking systems
-- Language-agnostic approach — choose tools that fit the problem
+- Language-agnostic approach.. choose tools that fit the problem
 - Consistency and maintainability over flashy complexity
 
----
-
-## 🌐 Socials:
-
-<p align="center">
-  <a href="https://linkedin.com/in/itsfarhan">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/pingfarhan">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://discord.com/users/pingfarhan">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
-  </a>
-</p>
-
-## Technologies & Tools
+## Tech Stack
 
 <div align="center">
 
-### Cloud-Native & Infrastructure
+**Cloud-Native & Infrastructure**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="40" width="40"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" height="40" width="40"/>
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-0F1689.svg?&style=flat-square&logo=helm&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=flat-square&logo=grafana&logoColor=white)
+**Languages & Development**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40"/>
 
-### Languages & Development
-
-![Java](https://img.shields.io/badge/java-ED8B00.svg?&style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8.svg?&style=flat-square&logo=go&logoColor=white)
-![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-CB171E.svg?&style=flat-square&logo=yaml&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
+**Tools & Platforms**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="40"/>
 
 </div>
 
-## Recent Work
+## Stats
 
-**📚 Technical Reviewer:** [Kubernetes Autoscaling with KEDA and Karpenter](https://www.packtpub.com/en-in/product/kubernetes-autoscaling-9781836643821) (PACKT Publishing)  
-Reviewing technical content on Kubernetes autoscaling patterns, KEDA event-driven scaling, and Karpenter node provisioning authored by [Christian Melendez](https://www.linkedin.com/in/christianmldz/).
- 
-> *You gotta buy this book! Its available in Dec 2025*
+<div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsfarhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
 
-**📝 Knowledge Base:** [notes.farhanahmed.pro](https://notes.farhanahmed.pro)  
-Technical documentation and learning experiments with Kubernetes, cloud-native tools, and system design. *(Feel free to explore and dm me if any changes to be done)*
-
-**🔧 Open Source Contributions:**  
-Contributing to [k8gb](https://github.com/k8gb-io/k8gb) - Global Server Load Balancing for Kubernetes.
-
-<!-- Working on Helm chart deployments, OCI registry support, and documentation improvements. -->
-
-**🌱 Currently Exploring:**
-
-- Kubernetes internals and CNCF ecosystem tools
-- KEDA and Karpenter autoscaling mechanisms
-<!-- - Go programming for cloud-native applications
-- System observability and monitoring patterns -->
-
-## Current Learning
+## Connect
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsfarhan&theme=minimal&hide_border=true&area=true&color=2e8b57)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsfarhan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pingfarhan)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pingfarhan.bsky.social)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://notes.farhanahmed.pro)
+
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pingfarhan) -->
 
 </div>
 

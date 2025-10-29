@@ -10,6 +10,21 @@
 
 I am curious about how systems work and how to build maintainable infrastructure. Currently focused on Kubernetes, cloud-native architectures, and making complex systems simple.
 
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsfarhan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pingfarhan)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/itsfarhan.bsky.social)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://notes.farhanahmed.pro)
+
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pingfarhan) -->
+
+</div>
+
+---
+
 ## What I'm Working On
 
 📚 **Technical Reviewer** for [Kubernetes Autoscaling with KEDA and Karpenter](https://www.packtpub.com/en-in/product/kubernetes-autoscaling-9781836643821) (PACKT Publishing)
@@ -55,19 +70,6 @@ I am curious about how systems work and how to build maintainable infrastructure
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsfarhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsfarhan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pingfarhan)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/itsfarhan.bsky.social)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://notes.farhanahmed.pro)
-
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pingfarhan) -->
-
 </div>
 
 ---
